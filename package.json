@@ -1,10 +1,10 @@
 {
-  "name": "hackathon-starter",
-  "version": "6.0.1",
-  "description": "A boilerplate for Node.js web applications",
+  "name": "travelvision-vue-ui",
+  "version": "1.0.0",
+  "description": "Travel Vision Vue UI",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahat/hackathon-starter.git"
+    "url": "https://github.com/sahat/travelvision-vue-ui.git"
   },
   "license": "MIT",
   "author": "Sahat Yalkabov",
@@ -21,6 +21,7 @@
     "@fortawesome/fontawesome-free": "^5.15.1",
     "@ladjs/bootstrap-social": "^7.0.2",
     "@octokit/rest": "^18.0.6",
+    "@vue/ui": "^0.11.6",
     "axios": "^0.20.0",
     "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
